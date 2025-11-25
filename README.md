@@ -158,3 +158,11 @@ Based on extensive experiments (25 model variants, six backbones, multiple loss 
 This framework is well-positioned for portable ultrasound systems and AI-augmented prenatal care in low-resource environments.
 
 ---
+## 🧑‍💻 Contributors
+
+* **Tasnuba Islam**
+* Rashik Iram Chowdhury
+* Mohona Haque
+* Sifat Momen (Supervisor)
+
+---
